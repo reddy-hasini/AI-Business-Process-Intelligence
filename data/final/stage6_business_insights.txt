@@ -1,0 +1,29 @@
+STAGE 6.3 — FINAL KPI & BUSINESS INSIGHTS REPORT
+============================================================
+
+FINAL KPI SUMMARY
+------------------------------------------------------------
+Total procurement cases: 174
+Predicted delayed cases: 49
+Predicted non-delayed cases: 125
+Predicted delay rate: 28.16%
+High-risk cases: 36
+Medium-risk cases: 22
+Low-risk cases: 116
+Immediate-priority cases: 36
+High-risk + delayed cases: 36
+Recommendation coverage: 100.00%
+
+PROCESS BOTTLENECKS
+------------------------------------------------------------
+Matching to Payment: 112 cases (64.37%)
+Supplier to Goods Receipt: 53 cases (30.46%)
+Goods Receipt to Invoice: 9 cases (5.17%)
+
+KEY BUSINESS INSIGHTS
+------------------------------------------------------------
+1. The system analyzed 174 procurement cases and predicted 49 cases as delayed, representing a predicted delay rate of 28.16%.
+2. There are 36 high-risk procurement cases, and all 36 high-risk cases are predicted to experience delays.
+3. The dominant process bottleneck is 'Matching to Payment', affecting 112 cases (64.37% of the dataset).
+4. The system generated recommendations for all 174 cases, resulting in 100.00% recommendation coverage.
+5. 36 cases were classified as immediate priority and require attention based on the integrated risk and prediction results.

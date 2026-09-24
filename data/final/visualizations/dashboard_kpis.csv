@@ -1,0 +1,10 @@
+metric,value
+Total Cases,174.0
+Predicted Delayed,49.0
+Predicted Not Delayed,125.0
+Predicted Delay Rate,28.16
+High Risk,36.0
+Medium Risk,22.0
+Low Risk,116.0
+Immediate Priority,36.0
+Recommendation Coverage,100.0

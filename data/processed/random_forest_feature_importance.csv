@@ -1,0 +1,14 @@
+feature,importance
+match_to_payment_hours,0.602315726523955
+supplier_to_goods_hours,0.12552520430036238
+pr_to_po_hours,0.05660736345183684
+invoice_to_match_hours,0.05579453207921585
+goods_to_invoice_hours,0.045552175241711894
+approval_to_supplier_hours,0.03965414821030488
+po_approval_hours,0.03848924691054155
+pr_count,0.018458306357486784
+payment_count,0.0060596369254917425
+rejection_count,0.0045119363130719185
+supplier_count,0.0024732814356263925
+goods_receipt_count,0.002327216281393852
+invoice_count,0.0022312259690009245

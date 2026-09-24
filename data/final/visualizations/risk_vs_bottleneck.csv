@@ -1,0 +1,4 @@
+main_bottleneck,High,Low,Medium
+Goods Receipt to Invoice,0,9,0
+Matching to Payment,36,54,22
+Supplier to Goods Receipt,0,53,0

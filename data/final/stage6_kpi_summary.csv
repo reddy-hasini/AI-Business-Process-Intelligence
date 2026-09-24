@@ -1,0 +1,14 @@
+KPI,Value
+Total Cases,174
+Predicted Delayed Cases,49
+Predicted Non-Delayed Cases,125
+Predicted Delay Rate (%),28.16
+High-Risk Cases,36
+Medium-Risk Cases,22
+Low-Risk Cases,116
+Immediate-Priority Cases,36
+High-Risk Delayed Cases,36
+Recommendation Coverage (%),100.0
+Top Bottleneck,Matching to Payment
+Top Bottleneck Cases,112
+Top Bottleneck Share (%),64.37

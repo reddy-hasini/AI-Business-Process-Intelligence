@@ -1,0 +1,175 @@
+pr_count,supplier_count,goods_receipt_count,invoice_count,payment_count,pr_to_po_hours,po_approval_hours,approval_to_supplier_hours,supplier_to_goods_hours,goods_to_invoice_hours,invoice_to_match_hours,match_to_payment_hours,rejection_count,predicted_delay,delay_probability,risk_level,main_bottleneck,priority,recommended_action
+1,1,1,1,1,1.217,0.033,0.733,72.0,72.0,0.267,144.0,0,0,0.0855255536586731,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.3,0.3,0.7,72.0,48.0,0.9,48.0,0,0,0.0593314267905919,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.817,0.433,0.6,24.0,48.0,0.417,48.0,0,0,0.0205843938828258,Low,Goods Receipt to Invoice,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,0.783,0.45,0.933,72.0,48.0,0.95,144.0,0,0,0.1272848690262483,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.167,0.283,0.533,48.0,24.0,0.133,72.0,0,0,0.0065526695526695,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+10,2,2,2,2,1.384,0.383,0.85,48.716,24.0,0.95,24.0,0,0,0.0273174603174603,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+2,1,1,1,1,1.767,0.8,0.717,120.0,48.0,0.833,240.0,0,1,0.9710476117568289,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,1.217,1.0,0.117,48.0,48.0,0.467,240.0,0,1,0.7579459905290522,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,1.767,0.75,0.017,48.0,24.0,0.117,96.0,0,0,0.0203771929824561,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,0.65,0.95,0.883,72.0,24.0,0.517,48.0,2,0,0.0456539210860916,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.8,0.717,0.667,24.0,24.0,0.15,240.0,0,0,0.4091048811831391,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+3,1,1,1,1,1.75,0.033,0.867,120.0,48.0,0.85,192.0,0,1,0.8601089704922659,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+2,1,1,1,1,0.55,0.867,0.433,120.0,48.0,0.6,48.0,0,0,0.0941288716580743,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.933,0.85,0.717,120.0,72.0,0.667,240.0,0,1,0.9635266589953752,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+6,1,1,1,1,1.966,0.333,0.267,96.0,24.0,1.0,216.0,0,1,0.7414232317861351,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+6,1,1,1,1,1.967,0.6,0.6,48.0,24.0,0.4,240.0,0,1,0.5957418478674873,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+4,1,1,1,1,1.699,0.9,0.717,72.0,48.0,0.083,240.0,0,1,0.8385045409772056,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+2,1,1,1,1,0.9,0.4,0.267,48.0,72.0,0.817,48.0,0,0,0.0754770527165417,Low,Goods Receipt to Invoice,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.75,0.65,0.617,48.0,48.0,0.2,216.0,0,1,0.7836783560666684,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+8,2,2,2,2,0.85,0.6,0.917,120.0,24.0,0.4,96.0,1,0,0.0647142857142857,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.2,0.567,0.217,120.0,72.0,0.767,24.0,0,0,0.1508428010604933,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.9,0.1,0.883,120.0,72.0,0.85,24.0,0,0,0.1176980405941127,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+3,2,2,2,2,0.283,0.367,0.35,48.0,72.0,0.267,168.0,1,0,0.226729038125572,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,2,0.45,0.783,0.467,72.0,72.0,0.017,168.0,0,0,0.3741288083400384,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,1.15,0.667,0.133,96.0,48.0,0.633,72.0,0,0,0.0653258996939812,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.6,0.95,1.0,24.0,48.0,0.35,192.0,0,0,0.2566067732562223,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+2,1,1,1,2,1.2,0.933,0.45,96.0,48.0,0.9,96.0,0,0,0.1197255076038945,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.267,0.817,0.783,96.0,48.0,0.217,48.0,0,0,0.061365471190135,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+10,2,2,2,3,1.966,0.7,0.233,24.0,24.45,0.75,24.0,2,0,0.017003367003367,Low,Goods Receipt to Invoice,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.017,0.883,0.167,120.0,24.0,0.05,120.0,0,0,0.0856185834107098,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.417,0.95,0.633,96.0,24.0,0.95,24.0,0,0,0.1109290988330803,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,1.034,0.033,0.367,24.0,24.0,0.183,168.0,1,0,0.1016020074696545,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.283,0.333,0.417,24.0,24.0,0.133,192.0,0,0,0.1727061973114604,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.717,0.833,0.5,24.0,24.0,0.817,48.0,0,0,0.0196228070175438,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.25,0.7,0.517,72.0,48.0,0.467,240.0,0,1,0.8680821294516352,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+2,1,1,1,1,1.85,0.883,0.583,24.0,72.0,0.7,168.0,0,0,0.2638568584375373,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.167,0.167,0.917,96.0,48.0,0.683,216.0,0,1,0.9171251613427944,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,0.667,0.767,0.25,96.0,72.0,0.783,168.0,0,1,0.833743564195453,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,0.617,0.733,0.333,120.0,72.0,0.85,144.0,0,1,0.5701296235689988,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+5,1,1,1,2,2.101,0.35,0.433,96.0,24.0,0.133,72.0,1,0,0.0760435305435305,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.75,0.317,0.183,96.0,48.0,0.117,24.0,0,0,0.0457441827010792,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,0.85,0.533,0.783,120.0,48.0,0.567,240.0,1,1,0.924426960627172,High,Matching to Payment,Immediate,Prioritize procurement case and review rejected transactions before further processing.
+4,1,1,1,1,1.2,0.15,0.283,120.0,72.0,0.15,96.0,0,0,0.1290465716406766,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+2,1,1,1,1,1.417,0.5,0.617,120.0,48.0,0.167,144.0,0,0,0.4327779632266622,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+2,1,1,1,1,1.233,0.483,0.633,72.0,24.0,0.983,216.0,0,1,0.7614953225052828,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,1.8,0.783,0.033,96.0,48.0,0.017,216.0,0,1,0.8462449749499629,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,1.617,0.783,0.583,72.0,48.0,0.7,72.0,0,0,0.05781606008009,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+4,1,1,1,1,1.501,0.533,0.05,120.0,48.0,0.217,168.0,0,1,0.8262527224853417,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,1.267,0.283,0.5,72.0,24.0,0.7,240.0,0,1,0.7689174238767179,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,1.267,0.633,0.967,72.0,48.0,0.05,144.0,0,0,0.1012587345240853,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.783,0.867,0.617,120.0,48.0,0.1,72.0,0,0,0.1392717488935763,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,2,1.267,0.167,0.417,48.0,72.0,0.283,23.733,0,0,0.0405118795932749,Low,Goods Receipt to Invoice,Routine,Continue normal procurement processing with routine monitoring.
+2,1,1,1,1,1.283,0.533,0.1,72.0,72.0,0.15,216.0,0,1,0.8663283926546019,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,1.017,0.933,0.9,96.0,24.0,0.117,120.0,0,0,0.0203409533935849,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.283,0.383,0.85,96.0,48.0,0.383,216.0,0,1,0.8623847605742196,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,1.15,0.533,0.567,72.0,48.0,0.45,48.0,0,0,0.0173124005642398,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.883,0.717,0.417,24.0,72.0,0.167,72.0,0,0,0.0495468175710861,Low,Goods Receipt to Invoice,Routine,Continue normal procurement processing with routine monitoring.
+3,1,1,1,1,0.951,0.25,0.15,72.0,48.0,0.55,96.0,0,0,0.0321415343915343,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.8,0.4,0.867,48.0,48.0,0.633,192.0,0,1,0.5350746410890204,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+1,1,1,1,1,0.517,0.167,0.833,96.0,72.0,0.633,144.0,0,0,0.2102330834331836,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+6,1,1,1,1,2.5,0.833,0.867,96.0,72.0,0.867,120.0,0,0,0.1906798431122102,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.383,0.25,0.1,24.0,48.0,0.267,48.0,0,0,0.0086111111111111,Low,Goods Receipt to Invoice,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,1.266,0.233,1.0,24.0,24.0,0.633,168.0,0,0,0.1422839105339105,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,1.534,0.783,0.55,24.0,24.0,0.3,144.0,0,0,0.0266556776556776,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.333,0.5,0.45,96.0,48.0,0.7,192.0,0,1,0.7978553644256926,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+6,1,1,1,2,2.25,0.017,0.833,120.0,24.0,0.417,120.0,1,0,0.1584312169312169,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+6,1,1,1,1,1.333,0.8,0.817,72.0,72.0,0.217,96.0,0,0,0.0556695043209957,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.667,0.217,0.183,24.0,72.0,0.433,216.0,0,1,0.523488825093452,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+1,1,1,1,1,0.517,0.05,0.017,48.0,48.0,0.4,24.0,0,0,0.0353680455347122,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,2.134,0.033,0.067,120.0,24.0,0.017,120.0,1,0,0.1739059644059644,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.267,0.217,0.183,96.0,48.0,0.483,72.0,0,0,0.0768524614381482,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+3,2,2,2,2,1.1,0.167,0.1,48.0,48.0,0.917,49.866,1,0,0.040722968389635,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+2,2,2,2,2,0.183,0.133,0.7,48.0,72.0,0.8,144.0,0,0,0.0867311542225335,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.833,0.383,0.267,24.0,48.0,0.4,144.0,0,0,0.0177522839637593,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.05,0.683,0.433,96.0,24.0,1.0,48.0,0,0,0.0989741612986409,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.017,0.45,0.617,120.0,48.0,0.533,24.0,0,0,0.0479222213107135,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.45,0.483,0.483,120.0,48.0,0.383,72.0,0,0,0.1017752391927857,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,1.683,0.65,0.383,120.0,72.0,0.95,48.0,2,0,0.2525767097299354,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.033,0.983,0.967,24.0,24.0,0.267,72.0,0,0,0.0275372405372405,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.383,0.35,0.95,72.0,72.0,0.15,48.0,0,0,0.0337789847381609,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+3,1,1,1,1,2.601,0.517,0.467,24.0,72.0,0.533,192.0,0,0,0.3341579732671493,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.183,0.183,0.117,48.0,72.0,0.083,168.0,0,0,0.2997254851125198,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+4,1,1,1,1,1.918,0.417,0.267,96.0,48.0,0.8,48.0,0,0,0.0997721117775353,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+4,1,1,1,1,1.216,0.133,0.817,48.0,72.0,0.6,240.0,0,1,0.864392465321623,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,0.617,0.083,0.533,72.0,48.0,0.483,120.0,0,0,0.0084883861880988,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.083,0.5,0.417,120.0,24.0,0.95,72.0,0,0,0.1200239048839487,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.783,0.75,0.283,72.0,72.0,0.017,168.0,0,0,0.4396960888283169,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+1,1,1,1,1,0.483,0.4,0.15,48.0,24.0,0.2,168.0,0,0,0.0891392813163912,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.367,0.05,0.717,72.0,48.0,0.25,192.0,0,1,0.6150415637435209,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+4,1,1,1,1,1.334,0.7,0.133,120.0,72.0,0.4,192.0,1,1,0.9017805901853404,High,Matching to Payment,Immediate,Prioritize procurement case and review rejected transactions before further processing.
+5,1,1,1,1,1.433,0.283,0.167,72.0,24.0,0.7,48.0,0,0,0.0408252173823879,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+2,1,1,1,1,1.566,0.317,0.183,24.0,72.0,0.767,72.0,0,0,0.0476629943381964,Low,Goods Receipt to Invoice,Routine,Continue normal procurement processing with routine monitoring.
+6,1,1,1,1,2.333,0.85,0.267,120.0,48.0,0.7,216.0,1,1,0.8555474078759956,High,Matching to Payment,Immediate,Prioritize procurement case and review rejected transactions before further processing.
+1,1,1,1,1,0.917,0.033,0.7,96.0,24.0,0.533,168.0,0,0,0.4650836508077481,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+6,2,2,2,2,1.416,0.533,0.318,72.0,24.0,0.433,72.0,1,0,0.0295763196751568,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+2,1,1,1,1,1.967,0.45,0.5,96.0,48.0,0.733,192.0,0,1,0.902799519689902,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,0.817,0.2,0.367,72.0,24.0,0.233,120.0,0,0,0.0156732676684463,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.8,0.6,0.017,48.0,24.0,0.383,120.0,0,0,0.0234292929292929,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,1.7,0.767,0.6,96.0,48.0,0.533,192.0,0,1,0.8861709748721647,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+4,1,1,1,1,1.0,0.883,0.917,96.0,24.0,0.383,48.0,0,0,0.035594611528822,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+4,1,1,1,1,0.917,0.367,0.967,120.0,24.0,0.3,120.0,0,0,0.0700595238095238,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.583,0.283,0.7,24.0,48.0,1.0,144.0,0,0,0.0743091854505647,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+2,1,1,1,1,1.633,0.333,0.517,72.0,48.0,0.367,96.0,0,0,0.0477503008114463,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.433,0.1,0.783,72.0,48.0,0.45,168.0,0,0,0.2805023943057815,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.367,0.833,0.3,72.0,24.0,0.817,120.0,0,0,0.0758437252483033,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+6,1,1,1,1,1.6,0.817,0.517,72.0,72.0,0.65,192.0,2,1,0.7577339099505551,High,Matching to Payment,Immediate,Prioritize procurement case and review rejected transactions before further processing.
+1,1,1,1,1,0.867,0.217,0.067,96.0,24.0,0.267,168.0,0,0,0.4806763140919557,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+1,1,1,1,1,0.633,0.217,0.45,96.0,48.0,0.55,240.0,0,1,0.9163307522775688,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,1.333,0.783,0.95,72.0,72.0,0.75,48.0,0,0,0.0726972378242576,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+4,1,1,1,1,0.367,0.867,0.183,24.0,72.0,0.6,24.0,2,0,0.0628751921778962,Low,Goods Receipt to Invoice,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.55,0.15,0.867,96.0,48.0,0.067,24.0,0,0,0.0536611968791228,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.3,0.983,0.217,96.0,24.0,0.467,168.0,0,0,0.4349087505421915,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+1,1,1,1,1,0.667,0.633,0.6,24.0,48.0,0.283,72.0,0,0,0.0124256348784896,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+3,1,1,1,1,1.417,0.467,0.4,120.0,48.0,0.117,72.0,0,0,0.0897892991020384,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+3,1,1,1,1,1.499,0.667,0.15,48.0,48.0,0.833,24.0,0,0,0.1014669820232986,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.083,0.783,0.25,48.0,24.0,0.833,144.0,0,0,0.0731389229259011,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.067,0.883,0.367,48.0,72.0,0.25,24.0,0,0,0.0467452084450667,Low,Goods Receipt to Invoice,Routine,Continue normal procurement processing with routine monitoring.
+3,1,1,1,1,1.216,0.883,0.2,96.0,48.0,0.65,72.0,1,0,0.0956926368342098,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+4,1,1,1,1,1.183,0.683,0.767,48.0,24.0,0.883,120.0,1,0,0.0509322508701017,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+4,1,1,1,1,1.066,0.633,0.2,24.0,48.0,0.767,192.0,0,0,0.2732863794718837,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+3,1,1,1,2,2.317,0.283,0.9,96.0,72.0,0.4,22.049,0,0,0.0980277819858944,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,0.867,0.7,0.067,96.0,24.0,0.067,24.0,0,0,0.0883233082706766,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+9,2,2,2,2,1.117,0.383,0.55,24.2,72.0,0.25,119.933,0,0,0.013375283446712,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+2,1,1,1,1,1.699,0.4,0.633,48.0,48.0,0.917,48.0,0,0,0.088342742310021,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+4,1,1,1,2,1.017,0.517,0.45,120.0,24.0,0.467,1.067,0,0,0.0843339973231277,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+4,1,1,1,1,0.567,0.433,0.467,24.0,72.0,0.95,96.0,1,0,0.0656660775072829,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.083,0.833,0.617,48.0,48.0,0.933,96.0,0,0,0.0500801720695507,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+6,1,1,1,1,1.7,0.05,0.067,72.0,48.0,0.983,216.0,2,1,0.732837048223692,Medium,Matching to Payment,Monitor,Review rejected transactions and monitor the procurement case closely.
+1,1,1,1,1,1.1,0.267,0.817,120.0,48.0,0.883,168.0,0,1,0.9224970250744192,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+5,1,1,1,1,1.232,0.333,0.317,72.0,72.0,0.217,144.0,1,0,0.0908106492552441,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.817,0.95,0.2,24.0,48.0,0.733,216.0,0,1,0.5133719779353174,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+5,1,1,1,1,1.333,0.85,0.3,48.0,24.0,0.8,48.0,1,0,0.0568698955897231,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+2,1,1,1,1,1.782,0.667,0.3,96.0,24.0,0.733,168.0,0,1,0.5043653164377409,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+2,1,1,1,1,1.049,0.567,0.4,48.0,24.0,0.467,192.0,0,0,0.2787439929017413,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,1.833,0.633,0.533,96.0,72.0,0.667,192.0,1,1,0.8943861336537425,High,Matching to Payment,Immediate,Prioritize procurement case and review rejected transactions before further processing.
+3,1,1,1,1,1.833,0.817,0.567,120.0,24.0,0.367,120.0,1,0,0.151167314451642,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,1.533,0.633,0.483,96.0,24.0,0.3,120.0,0,0,0.0663084364282362,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+4,1,1,1,1,1.534,0.117,0.183,120.0,72.0,0.3,48.0,0,0,0.158872977880076,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.283,0.417,0.2,96.0,24.0,0.65,192.0,0,1,0.671559130598474,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+5,1,1,1,1,1.033,0.5,0.75,24.0,24.0,0.217,240.0,0,0,0.3162701914142049,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+6,1,1,1,1,2.367,0.983,0.133,120.0,24.0,0.883,240.0,0,1,0.7335992895992897,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+2,1,1,1,1,1.2,0.533,0.983,72.0,48.0,0.75,48.0,0,0,0.071971532039165,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+2,1,1,1,1,1.917,0.283,0.783,120.0,48.0,0.4,24.0,0,0,0.1228170498587176,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.15,0.933,0.683,120.0,72.0,0.717,144.0,0,1,0.624266747964173,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+6,2,2,2,2,1.55,0.25,0.017,48.484,48.0,0.817,48.0,1,0,0.0552142857142857,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,1.266,0.517,0.533,72.0,24.0,0.383,240.0,2,1,0.7506448011679687,High,Matching to Payment,Immediate,Prioritize procurement case and review rejected transactions before further processing.
+5,1,1,1,1,1.616,0.95,1.0,24.0,48.0,0.583,72.0,1,0,0.0909442440275773,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+3,1,1,1,1,0.967,0.6,0.25,72.0,48.0,0.283,216.0,1,1,0.7816267875708426,High,Matching to Payment,Immediate,Prioritize procurement case and review rejected transactions before further processing.
+2,1,1,1,1,1.45,0.567,0.817,120.0,48.0,0.233,240.0,0,1,0.9475619274207956,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,0.517,0.567,0.867,72.0,72.0,0.833,72.0,0,0,0.0610602169707198,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+3,1,1,1,1,0.883,0.183,0.983,48.0,24.0,0.583,216.0,1,0,0.483529572884851,Medium,Matching to Payment,Monitor,Review rejected transactions and monitor the procurement case closely.
+1,1,1,1,1,0.667,0.433,1.0,48.0,24.0,0.8,168.0,0,0,0.2614047374014753,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+2,1,1,1,1,1.583,0.067,0.933,96.0,48.0,0.417,144.0,0,0,0.2846073138344451,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.533,0.333,0.6,120.0,72.0,0.633,24.0,0,0,0.13404141896525,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.367,0.75,0.617,48.0,48.0,0.817,192.0,0,1,0.7604024642550936,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+4,1,1,1,2,0.782,0.267,0.417,48.0,72.0,0.933,239.901,0,1,0.8406995751877059,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,1.267,0.233,0.233,96.0,24.0,0.067,48.0,0,0,0.0537187090707669,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+4,1,1,1,1,1.7,0.433,0.317,72.0,72.0,0.933,240.0,0,1,0.936785732220794,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+2,1,1,1,1,0.85,0.933,0.267,72.0,24.0,0.933,216.0,0,1,0.7825703942059874,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,0.95,0.4,0.083,96.0,24.0,0.1,240.0,0,1,0.7787684922457084,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,0.3,0.283,0.683,24.0,72.0,0.417,168.0,0,0,0.1565006354713788,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.633,0.467,0.517,96.0,48.0,0.483,120.0,0,0,0.0778843857067906,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+5,1,1,1,1,1.251,0.733,0.5,24.0,24.0,0.217,24.0,0,0,0.0155128205128205,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.35,0.283,0.517,96.0,48.0,0.467,144.0,0,0,0.2693161627213958,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.733,0.217,0.3,96.0,48.0,0.383,192.0,0,1,0.8392596585882236,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+5,1,1,1,1,1.35,0.4,0.217,48.0,48.0,0.433,120.0,1,0,0.0457114295748657,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+4,1,1,1,1,1.45,0.65,0.4,24.0,24.0,0.433,144.0,0,0,0.0396398046398046,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+3,1,1,1,1,1.617,0.633,0.7,72.0,48.0,0.65,120.0,0,0,0.091177751709023,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+2,1,1,1,1,1.333,0.317,0.617,96.0,72.0,0.583,48.0,0,0,0.0616390103810808,Low,Supplier to Goods Receipt,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,1.067,0.6,0.5,120.0,72.0,0.617,144.0,0,1,0.5111287346175424,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+5,1,1,1,1,1.1,0.133,0.017,24.0,24.0,0.883,192.0,0,0,0.2148400173689547,Low,Matching to Payment,Routine,Continue normal procurement processing with routine monitoring.
+1,1,1,1,1,0.25,0.567,0.417,24.0,48.0,0.1,240.0,0,0,0.4702831020173015,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
+2,1,1,1,1,1.15,0.783,0.633,120.0,24.0,0.45,240.0,0,1,0.8523839596564577,High,Matching to Payment,Immediate,Prioritize invoice matching and payment processing.
+1,1,1,1,1,1.383,0.083,0.017,96.0,24.0,0.367,168.0,0,0,0.4385205031294982,Medium,Matching to Payment,Monitor,Monitor invoice matching and payment processing.
