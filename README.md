@@ -374,7 +374,7 @@ Open the following file using Power BI Desktop:
 
 AI_Business_Process_Intelligence_Dashboard.pbix
 
-
+![Power BI Dashboard](assets/dashboard.png)
 ---
 
 # Final Output
